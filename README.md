@@ -27,7 +27,7 @@ Although these suggestions can be applied to any programming language, I will us
 
 ## English language
 
-Use English language when naming your variables and functions.
+Use German language when naming your variables and functions.
 
 ```js
 /* Bad */
