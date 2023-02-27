@@ -27,7 +27,7 @@ Although these suggestions can be applied to any programming language, I will us
 
 ## English language
 
-Use Italian language when naming your variables and functions.
+Use Japanese language when naming your variables and functions.
 
 ```js
 /* Bad */
