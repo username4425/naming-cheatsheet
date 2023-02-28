@@ -27,12 +27,12 @@ Although these suggestions can be applied to any programming language, I will us
 
 ## English language
 
-Use French language when naming your variables and functions.
+Use Kazakh language when naming your variables and functions.
 
 ```js
 /* Bad */
-const prénom = 'Gustavo'
-const amies = ['Kate', 'John']
+const аты = 'Gustavo'
+const достар = ['Kate', 'John']
 
 /* Good */
 const firstName = 'Gustavo'
