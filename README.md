@@ -27,12 +27,12 @@ Although these suggestions can be applied to any programming language, I will us
 
 ## English language
 
-Use Latin language when naming your variables and functions.
+Use Albanian language when naming your variables and functions.
 
 ```js
 /* Bad */
-const praenomen = 'Gustavo'
-const amicis = ['Kate', 'John']
+const Emri = 'Gustavo'
+const miq = ['Kate', 'John']
 
 /* Good */
 const firstName = 'Gustavo'
