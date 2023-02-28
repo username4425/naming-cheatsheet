@@ -27,12 +27,12 @@ Although these suggestions can be applied to any programming language, I will us
 
 ## English language
 
-Use Albanian language when naming your variables and functions.
+Use Armenain language when naming your variables and functions.
 
 ```js
 /* Bad */
-const Emri = 'Gustavo'
-const miq = ['Kate', 'John']
+const անուն = 'Gustavo'
+const Ընկերներ = ['Kate', 'John']
 
 /* Good */
 const firstName = 'Gustavo'
